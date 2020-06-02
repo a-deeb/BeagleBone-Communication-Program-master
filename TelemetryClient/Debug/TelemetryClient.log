@@ -1,0 +1,6 @@
+﻿  CommandThread.cpp
+  MySocket.cpp
+  Pkt_Def.cpp
+  TeleClient.cpp
+  Generating Code...
+  TelemetryClient.vcxproj -> C:\Users\Pc\Desktop\BeagleBone-Communication-Program-master\Debug\TelemetryClient.exe
